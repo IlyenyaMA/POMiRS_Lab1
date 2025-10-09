@@ -1,0 +1,21 @@
+Thu Oct 02 13:00:34 2025
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Oct 02 13:00:34 2025
+No ARsim registration found!
+
+Thu Oct 02 13:00:34 2025
+InstanceName: 01dc3383654f2410
+
+Thu Oct 02 13:00:34 2025
+WorkingDirectory: C:\Users\admin\Desktop\lab1\pors_lab1-main\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Thu Oct 02 13:00:34 2025
+COMMAND_COLDSTART
+
+Thu Oct 02 13:00:37 2025
+Version: D4.52
+
+Thu Oct 02 13:00:45 2025
+COMMAND_TERMINATE
+
